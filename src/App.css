@@ -1,0 +1,69 @@
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  color:#343434;
+}
+
+h2 {
+  margin-left: 6%;
+  color: white;
+  padding-top: 20px;
+  margin-bottom: 10px;
+}
+
+.header {
+  background-color: #202225;
+  border-bottom: 8px solid #616bdd;
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+.navbar-toggler.custom-toggler {
+  background-color: #5d5c6d; 
+}
+
+.card {
+  padding: 10px;
+  padding-left: 15px;
+  width: 100%; /* Фіксована ширина */
+  height: 82%; /* Фіксована висота */
+  margin: 20px; /* Відступи з усіх сторін */
+  background-color: #f9f9f9;
+  border-radius: 25px !important;
+} 
+
+.cart-text {
+  margin-left: 6%;
+  margin-top: 20px;
+  margin-bottom: 20px; 
+  padding-top: 20px; 
+  padding-bottom: 20px; 
+  width: 58%; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.cart-table {
+  width: 80%; /* Ширина таблиці */
+  margin-top: 2%; /* Відступ зверху */
+  border-collapse: collapse; /* Злиття рамок таблиці */
+  border-radius: 20px; /* Закруглення кутів таблиці */
+  overflow: hidden; /* Приховання виносів */
+  background-color: #f0f0f5; /* Колір фону */
+}
+
+.cart-table th,
+.cart-table td {
+  border: 1px solid #ddd; /* Рамка для комірок */
+  padding: 8px; /* Відступ всередині комірок */
+  text-align: center; /* Вирівнювання тексту ліворуч */
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+.cart-table th {
+  background-color: #2b2b2c; /* Колір фону заголовку */
+  font-size: 18px; /* Розмір тексту заголовку */
+  font-weight: bold; /* Жирний текст заголовку */
+}

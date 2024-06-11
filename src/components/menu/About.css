@@ -1,0 +1,34 @@
+.about-container {
+    color: #000000;
+    background-color: #ffffff; 
+    padding: 20px;
+    border-radius: 50px; 
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6); 
+  }
+  
+  .about-heading {
+    color: #4d5dee;
+    font-size: 32px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    text-align: center;
+  }
+  
+  .about-text {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 10px;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+  }
+  
+  .about-list-item {
+    margin-bottom: 10px;
+    color: #4d5dee; 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+  }
+  
