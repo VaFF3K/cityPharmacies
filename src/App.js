@@ -21,10 +21,10 @@ import './App.css';
 
 
 function App() {
+
   document.body.style.backgroundColor = '#4d5dee';
 
   const [cart, setCart] = useState([]); // Стан корзини, яка починається з порожнього масиву
-  const [user, setUser] = useState(null);
   const handleAddToCart = (product) => {
     // Перевіряємо, чи товар вже є в корзині
     const isProductInCart = cart.some((item) => item.name === product.name);
