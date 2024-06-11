@@ -22,8 +22,9 @@ const Home = ( {info} ) => {
           </Col>  
         ))}
       </Row>
-    </Container>
+    </Container> 
   );
 };
+
 
 export default Home;
