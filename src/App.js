@@ -7,15 +7,15 @@ import Pr_Catalog from './components/Services/Product_Catalog';
 import Ph_Catalog from './components/Services/Pharmacy_Catalog';
 import Cart from './components/menu/Cart';
 
-import img1 from './components/images/pr_img1.jpg';
-import img2 from './components/images/pr_img2.png';
-import img3 from './components/images/pr_img3.png';
-import img4 from './components/images/pr_img4.png';
-import img5 from './components/images/pr_img5.png';
+import img1 from './assets/images/goods/pr_img1.jpg';
+import img2 from './assets/images/goods/pr_img2.png';
+import img3 from './assets/images/goods/pr_img3.png';
+import img4 from './assets/images/goods/pr_img4.png';
+import img5 from './assets/images/goods/pr_img5.png';
 
-import a_img1 from './components/images/pharmacy/ph_img1.png';
-import a_img2 from './components/images/pharmacy/ph_img2.png';
-import a_img3 from './components/images/pharmacy/ph_img3.png';
+import a_img1 from './assets/images/pharmacy/ph_img1.png';
+import a_img2 from './assets/images/pharmacy/ph_img2.png';
+import a_img3 from './assets/images/pharmacy/ph_img3.png';
 
 import './App.css';
 
