@@ -1,0 +1,35 @@
+.cart-text {
+    margin-left: 6%;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    width: 58%; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+  }
+  
+  .cart-table {
+    width: 80%; /* Ширина таблиці */
+    margin-top: 2%; /* Відступ зверху */
+    border-collapse: collapse; /* Злиття рамок таблиці */
+    border-radius: 20px; /* Закруглення кутів таблиці */
+    overflow: hidden; /* Приховання виносів */
+    background-color: #f0f0f5; /* Колір фону */
+  }
+  
+  .cart-table th,
+  .cart-table td {
+    border: 1px solid #ddd; /* Рамка для комірок */
+    padding: 8px; /* Відступ всередині комірок */
+    text-align: center; /* Вирівнювання тексту ліворуч */
+    font-family: 'Montserrat', sans-serif;
+    
+  }
+  
+  .cart-table th {
+    background-color: #2b2b2c; /* Колір фону заголовку */
+    font-size: 18px; /* Розмір тексту заголовку */
+    font-weight: bold; /* Жирний текст заголовку */
+  }

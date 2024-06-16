@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Container, Table, Button, Form } from 'react-bootstrap';
+import './Cart.css';
 
 const Cart = ({ cart, onAddToCart }) => {
   const [quantities, setQuantities] = useState({});
